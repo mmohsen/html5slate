@@ -14,7 +14,7 @@ Open `slate.html` in an html5 capable browser. When you're ready, click **Clap**
 ## Known issues:
 Sometimes the first clap is out of sync due to a delay in loading audio object. Simply click the Clap button a couple of times to sync.
 
-I have tested it on Chrome (v. 25.0.1364.172), Firefox (v. 12.0), and Safari (V. 6.0.2 (8536.26.17)). If you find any issues on a specific HTML5 capable browser, please let me know.
+I have tested it on Chrome (v. 25.0.1364.172), Firefox (v. 12.0), and Safari (V. 6.0.2 (8536.26.17)), all on Mac OS X. If you find any issues on a specific HTML5 capable browser, please let me know.
 
 ## License
 Copyright &copy; 2013, Mustafa Mohsen
