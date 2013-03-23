@@ -11,6 +11,8 @@ Simply clone the repository, or download and extract the downloadable archive.
 ## Usage
 Open `slate.html` in an html5 capable browser. When you're ready, click **Clap** button. That's it :-)
 
+Optionally, you may fill the slate board as desired.
+
 ## Known issues:
 Sometimes the first clap is out of sync due to a delay in loading audio object. Simply click the Clap button a couple of times to sync.
 
